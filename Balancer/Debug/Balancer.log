@@ -1,0 +1,14 @@
+﻿  Menu.cpp
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(34,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(35,19): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(42,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(43,18): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(50,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(51,17): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(58,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(59,16): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(73,38): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(73,38): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(73,58): warning C4838: conversion from 'float' to 'int' requires a narrowing conversion
+F:\work\projects\Visual_Cpp\Balancer\Balancer\GameModule\Menu.cpp(73,58): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+  Balancer.vcxproj -> F:\work\projects\Visual_Cpp\Balancer\Debug\Balancer.exe

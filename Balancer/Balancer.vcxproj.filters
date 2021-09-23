@@ -1,0 +1,81 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="GameModule">
+      <UniqueIdentifier>{183f595e-e923-4d4e-a2cd-9a142b65f67f}</UniqueIdentifier>
+    </Filter>
+    <Filter Include="EngineModule">
+      <UniqueIdentifier>{4e747260-6abe-426c-928c-630e0bac8a2d}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="EngineModule\Actor.h">
+      <Filter>EngineModule</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineModule\Root.h">
+      <Filter>EngineModule</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule\Game.h">
+      <Filter>GameModule</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule\Balancer.h">
+      <Filter>GameModule</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineModule\TransformComponent.h">
+      <Filter>EngineModule</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineModule\Viewport.h">
+      <Filter>EngineModule</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule\Weighty.h">
+      <Filter>GameModule</Filter>
+    </ClInclude>
+    <ClInclude Include="EngineModule\EventComponent.h">
+      <Filter>EngineModule</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule\Button.h">
+      <Filter>GameModule</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule\Menu.h">
+      <Filter>GameModule</Filter>
+    </ClInclude>
+    <ClInclude Include="GameModule\EStates.h">
+      <Filter>GameModule</Filter>
+    </ClInclude>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="EngineModule\main.cpp">
+      <Filter>EngineModule</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineModule\Root.cpp">
+      <Filter>EngineModule</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineModule\Actor.cpp">
+      <Filter>EngineModule</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModule\Game.cpp">
+      <Filter>GameModule</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineModule\TransformComponent.cpp">
+      <Filter>EngineModule</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineModule\Viewport.cpp">
+      <Filter>EngineModule</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModule\Balancer.cpp">
+      <Filter>GameModule</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModule\Weighty.cpp">
+      <Filter>GameModule</Filter>
+    </ClCompile>
+    <ClCompile Include="EngineModule\EventComponent.cpp">
+      <Filter>EngineModule</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModule\Button.cpp">
+      <Filter>GameModule</Filter>
+    </ClCompile>
+    <ClCompile Include="GameModule\Menu.cpp">
+      <Filter>GameModule</Filter>
+    </ClCompile>
+  </ItemGroup>
+</Project>
